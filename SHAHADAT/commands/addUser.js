@@ -2,7 +2,7 @@ module.exports.config = {
     name: "adduser",
     version: "1.0.1",
     hasPermission: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "OBITO UCHIHA",
     description: "Add user to group using profile link or UID",
     commandCategory: "system",
     usages: "[uid/link]",
