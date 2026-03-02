@@ -7,7 +7,7 @@ module.exports.config = {
  name: "admin",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "OBITO UCHIHA",
  description: "Show Owner Info",
  commandCategory: "Info",
  usages: "admin",
